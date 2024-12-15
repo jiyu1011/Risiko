@@ -1,0 +1,24 @@
+{
+  "fahrzeuge": [
+    {
+      "id": 1,
+      "besitzerId": 1,
+      "fahrzeugmodell": "Audi A4",
+      "erstzulassung": "2018-05-10",
+      "unfallhistorie": false,
+      "fahrzeugwert": 25000,
+      "versicherungsstufe": "Niedrig"
+    },
+    {
+      "id": 2,
+      "besitzerId": 2,
+      "fahrzeugmodell": "BMW 3 Series",
+      "erstzulassung": "2015-09-15",
+      "unfallhistorie": true,
+      "fahrzeugwert": 15000,
+      "versicherungsstufe": "Hoch"
+    }
+  ]
+}
+
+	

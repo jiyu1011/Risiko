@@ -1,7 +1,7 @@
 {
   "fahrzeuge": [
     {
-      "fahrzeugid": BAB1234,
+      "fahrzeugid": "BAB1234",
       "besitzerid": 1,
       "fahrzeugmodell": "Audi A4",
       "erstzulassung": "2018-05-10",
@@ -10,7 +10,7 @@
       "versicherungsstufe": "Niedrig"
     },
     {
-      "fahrzeugid": MXY5678,
+      "fahrzeugid": "MXY5678",
       "besitzerid": 2,
       "fahrzeugmodell": "BMW 3 Series",
       "erstzulassung": "2015-09-15",
